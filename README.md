@@ -21,7 +21,7 @@ The following Json file will be output.
 Store the python file and the output json file in the same hierarchy.
 After that, adaptive cards can be sent to any user simply by running Python.
 
-## important point
+# Important point
 Run it on the Python 3 series.
 
 request module is required.
