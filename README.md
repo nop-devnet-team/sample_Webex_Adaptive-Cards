@@ -42,3 +42,9 @@ To receive a reply to your card, use a webhook.
 https://developer.webex.com/docs/api/guides/webhooks
 
 Customize this to your liking.
+
+# Output
+The same content created in Buttons and Cards Designer will be sent as a Webex message as shown in the figure below.
+![output](https://user-images.githubusercontent.com/120566139/212649717-a12e63b1-66b5-4811-bdb0-1b5c93db3bed.png)
+
+If you want to change the contents of the card, modify it in Buttons and Cards Designer and update card.json.
